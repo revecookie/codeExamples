@@ -1,4 +1,4 @@
-package functionininterface;
+package interfaces;
 
 @FunctionalInterface
 public interface PersonInterface<K, V> {
